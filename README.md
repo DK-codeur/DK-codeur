@@ -21,9 +21,10 @@ passionate 😍 and motivated 💪
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%230175C2.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%230175C2.svg?style=for-the-javascript&logo=javascript&logoColor=white&color=yellow)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%230175C2.svg?style=for-the-laravel&logo=laravel&logoColor=white&color=red)
+![Laravel](https://img.shields.io/badge/Laravel-%230175C2.svg?style=for-the-badge&logo=laravel&logoColor=red&color=white)
 <!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
